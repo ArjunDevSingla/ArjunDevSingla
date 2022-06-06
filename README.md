@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArjunDevSingla
-- 👀 I’m interested in Web-Developement
-- 🌱 I’m currently learning front-end Dev.
-- 💞️ I’m looking to collaborate on Web-Dev Projects
+- 👀 I’m interested in Python - Tech - Stuff
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me arjundevsingla1612@gmail.com my mail id
 
 <!---
